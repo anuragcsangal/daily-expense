@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#add {
+  background-color: rgb(59 130 246);
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 99px;
+  width: 100px;
+}
+
+#add:hover {
+  background-color: rgb(29 78 216);
+}
+
+#total {
+  background-color: rgb(59 130 246);
+  color: white;
+  font-weight: bold;
+  padding: 8px 16px;
+  border-radius: 99px;
+}
